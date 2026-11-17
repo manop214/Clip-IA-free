@@ -18,8 +18,8 @@
 2. Abre una terminal dentro de la carpeta.
 3. Ejecuta `npm install`.
 4. Configura la variable de entorno `OPENAI_API_KEY` (no la pongas en el HTML ni la compartas).
-   - macOS/Linux: `export OPENAI_API_KEY="tu_clave"`
-   - Windows PowerShell: `$env:OPENAI_API_KEY="tu_clave"`
+   - macOS/Linux: `export OPENAI_API_KEY="MR STREET"`
+   - Windows PowerShell: `$env:OPENAI_API_KEY="MR STREET"`
 5. Ejecuta `npm start`.
 6. Abre `http://localhost:3000`.
 
